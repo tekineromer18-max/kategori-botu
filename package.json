@@ -1,0 +1,15 @@
+{
+  "name": "kategori-botu",
+  "version": "1.0.0",
+  "description": "Kategori bazlı rol izin uygulayan Discord botu (dry-run, backup, restore destekli).",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
